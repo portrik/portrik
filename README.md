@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**tehSIRius/tehSIRius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Patrik. Yes, it is spelled without 'c'. Yes, it is pronounced the same as the one with 'c'. And no, you probably will not be able to pronounce my last name. I cannot do it most of the time myself.
 
-Here are some ideas to get you started:
+## The Stuff I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to do stuff. The more stuff I do, the happier I am. It is even better if the stuff is software. 
+
+**My Favorite Stuff:**
+
+* VS Code
+* JavaScript
+* Python
+* Games 
+* Testing (Automated, of course)
