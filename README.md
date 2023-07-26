@@ -44,9 +44,9 @@ There may be a lot of languages in my repositories. I do not use a lot of them n
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 2vw;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tehSIRius&show_icons=true&theme=transparent" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=portrik&show_icons=true&theme=transparent" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehSIRius&theme=transparent" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portrik&theme=transparent" />
     </a>
 </div>
